@@ -1,0 +1,2 @@
+# Requires: unlikely-deferral
+# (Not available on PyPI)
